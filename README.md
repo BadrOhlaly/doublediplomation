@@ -59,4 +59,4 @@ Utilisez les options de filtrage pour afficher des activités spécifiques.
 Accédez à votre profil pour gérer les informations personnelles.
 
 Partie Intelligence Artificielle:
-Malgré des efforts pour intégrer les fonctionnalités liées à l'intelligence artificielle, les résultats escomptés n'ont pas été atteints.
+Malgré des efforts pour intégrer les fonctionnalités liées à l'intelligence artificielle, les résultats escomptés n'ont pas été atteints malheureusement.
