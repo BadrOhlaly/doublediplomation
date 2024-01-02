@@ -58,4 +58,5 @@ Explorez la liste des activités et ajoutez de nouvelles activités si nécessai
 Utilisez les options de filtrage pour afficher des activités spécifiques.
 Accédez à votre profil pour gérer les informations personnelles.
 
-Concernant la partie de l'intelligence artificielle, j'ai essaye mais malheureusement je n'ai pas trouve le resultat attendu .
+Partie Intelligence Artificielle:
+Malgré des efforts pour intégrer les fonctionnalités liées à l'intelligence artificielle, les résultats escomptés n'ont pas été atteints.
